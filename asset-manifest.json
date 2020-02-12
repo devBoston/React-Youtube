@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Youtube/static/css/main.4a966e5b.chunk.css",
+    "main.js": "/React-Youtube/static/js/main.1dd052ba.chunk.js",
+    "main.js.map": "/React-Youtube/static/js/main.1dd052ba.chunk.js.map",
+    "runtime-main.js": "/React-Youtube/static/js/runtime-main.8f0254fb.js",
+    "runtime-main.js.map": "/React-Youtube/static/js/runtime-main.8f0254fb.js.map",
+    "static/js/2.b23e50d9.chunk.js": "/React-Youtube/static/js/2.b23e50d9.chunk.js",
+    "static/js/2.b23e50d9.chunk.js.map": "/React-Youtube/static/js/2.b23e50d9.chunk.js.map",
+    "index.html": "/React-Youtube/index.html",
+    "precache-manifest.71d616028fea6ae270ef90406a5d4764.js": "/React-Youtube/precache-manifest.71d616028fea6ae270ef90406a5d4764.js",
+    "service-worker.js": "/React-Youtube/service-worker.js",
+    "static/css/main.4a966e5b.chunk.css.map": "/React-Youtube/static/css/main.4a966e5b.chunk.css.map",
+    "static/js/2.b23e50d9.chunk.js.LICENSE.txt": "/React-Youtube/static/js/2.b23e50d9.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/React-Youtube/static/media/Logo.3fd53214.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f0254fb.js",
+    "static/js/2.b23e50d9.chunk.js",
+    "static/css/main.4a966e5b.chunk.css",
+    "static/js/main.1dd052ba.chunk.js"
+  ]
+}
